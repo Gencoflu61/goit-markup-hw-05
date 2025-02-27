@@ -556,9 +556,8 @@ img{
     display: block;
     margin-bottom: 4px;
 }
-.name-modal{
+.form-box-content{
     position: relative;
-   
 }
 .name-input{ /*Kutucuk ölçülerini belirler */
     width: 100%;
