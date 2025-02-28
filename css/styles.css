@@ -542,11 +542,9 @@ img{
 }
 .modal-btn-svg{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.modal-btn-svg:hover,
-.modal-btn-svg:focus{
     fill: #ffffff;
 }
+
 .modal-text{
     font-weight: 500;
     font-size: 16px;
@@ -594,8 +592,6 @@ img{
     top: 50%;
     transform: translateY(-50%);
     transition: fill 250ms cubic-bezier(0.4,0,0.2,1);
-}
-.name-svg:focus{
     fill: #4D5AE5;
 }
 .textarea-modal{
