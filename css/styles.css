@@ -381,6 +381,7 @@ img{
     display: flex;
     gap: 16px;
     list-style: none;
+    margin-right: 50px;
 }
 .icon-footer-title{
     color: #FFFFFF;
@@ -404,6 +405,7 @@ img{
 .icon-last-list{
     width: 40px;
     height: 40px;
+   
 }
 .icon-footer-svg{
     fill: #f4f4fd;
@@ -469,6 +471,7 @@ img{
     gap:24px;
     margin-top: 8px;
     list-style: none;
+    
 }
 .icon-social svg{
     width: 16px;
@@ -509,7 +512,7 @@ img{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50½,-50½);
+    transform: translate(-50%,-50%);
     width: 408px;
     min-height: 584px;
     background: #fcfcfc;
@@ -655,6 +658,7 @@ input[type="checkbox"]:checked + label .checkbox-span{
     cursor: pointer;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 0 auto;
 }
 .mail-footer{
     height: 40px;
